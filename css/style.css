@@ -1,7 +1,7 @@
-.three{
+a[href^="https"] {
     color: red;
 }
 
-#bim{
+ul+p{
     font-size: 24px;
 }
